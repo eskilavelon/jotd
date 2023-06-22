@@ -5,6 +5,6 @@ metadata:
 containers:
   cowboy-festival:
     image: .
- resources:
-    jotd-dns:
-      type: dns
+resources:
+  jotd-dns:
+    type: dns
